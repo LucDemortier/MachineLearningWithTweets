@@ -1,0 +1,3 @@
+*.txt
+results/
+.ipynb_checkpoints/
