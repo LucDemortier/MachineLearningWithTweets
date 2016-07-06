@@ -1,6 +1,10 @@
 # MachineLearningWithTweets
-Project Fletcher for Spring 2015 Metis Data Science bootcamp (analysis of tweets with K-Means, LDA, MDS,...).
-See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/portfolio/4_fletcher.html) for a description of the results.
+
+For this project I analyzed tweets about yoga, using K-Means, Latent Dirichlet Allocation, and MultiDimensional Scaling.
+
+This was "Project Fletcher" in the Spring 2015 Metis Data Science bootcamp.
+
+See blog post at [lucdemortier.github.io](http://lucdemortier.github.io/projects/4_fletcher.html) for a description of the results.
 
 iPython notebooks and other files used to generate the results and plots for the Fletcher project:
 
